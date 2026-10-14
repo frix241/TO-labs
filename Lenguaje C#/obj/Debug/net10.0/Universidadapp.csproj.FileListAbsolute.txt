@@ -1,0 +1,14 @@
+/home/frix/University/Labs/TO/Lenguaje C#/bin/Debug/net10.0/Universidadapp
+/home/frix/University/Labs/TO/Lenguaje C#/bin/Debug/net10.0/Universidadapp.deps.json
+/home/frix/University/Labs/TO/Lenguaje C#/bin/Debug/net10.0/Universidadapp.runtimeconfig.json
+/home/frix/University/Labs/TO/Lenguaje C#/bin/Debug/net10.0/Universidadapp.dll
+/home/frix/University/Labs/TO/Lenguaje C#/bin/Debug/net10.0/Universidadapp.pdb
+/home/frix/University/Labs/TO/Lenguaje C#/obj/Debug/net10.0/Universidadapp.GeneratedMSBuildEditorConfig.editorconfig
+/home/frix/University/Labs/TO/Lenguaje C#/obj/Debug/net10.0/Universidadapp.AssemblyInfoInputs.cache
+/home/frix/University/Labs/TO/Lenguaje C#/obj/Debug/net10.0/Universidadapp.AssemblyInfo.cs
+/home/frix/University/Labs/TO/Lenguaje C#/obj/Debug/net10.0/Universidadapp.csproj.CoreCompileInputs.cache
+/home/frix/University/Labs/TO/Lenguaje C#/obj/Debug/net10.0/Universidadapp.dll
+/home/frix/University/Labs/TO/Lenguaje C#/obj/Debug/net10.0/refint/Universidadapp.dll
+/home/frix/University/Labs/TO/Lenguaje C#/obj/Debug/net10.0/Universidadapp.pdb
+/home/frix/University/Labs/TO/Lenguaje C#/obj/Debug/net10.0/Universidadapp.genruntimeconfig.cache
+/home/frix/University/Labs/TO/Lenguaje C#/obj/Debug/net10.0/ref/Universidadapp.dll
